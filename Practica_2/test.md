@@ -1,1 +1,0 @@
-para subir el archivo de avance desde la app
