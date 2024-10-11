@@ -3,6 +3,7 @@
 Integrantes:
 - Daniel Barrera
 - Sergio Andres Daza
+- Natalia Arenas
 
 
 Grupo 6
